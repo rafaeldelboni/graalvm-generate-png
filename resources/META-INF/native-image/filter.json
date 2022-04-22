@@ -1,0 +1,7 @@
+{
+  "rules": [
+    {"excludeClasses": "clojure.**"},
+    {"excludeClasses": "java.lang.reflect.Method"},
+    {"includeClasses": "clojure.lang.Reflector"}
+  ]
+}
