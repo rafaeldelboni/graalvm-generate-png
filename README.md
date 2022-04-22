@@ -1,6 +1,8 @@
 # graalvm-generate-png
 
-Generate PNG image using Clojure + GraalVM
+Generate PNG image using Clojure + GraalVM.
+
+Code based in this [Gist](https://gist.github.com/nodename/1500647/9bbdb7ec934bc20e7b8ba01e113f0b2e3222d087)
 
 ## Developing
 
